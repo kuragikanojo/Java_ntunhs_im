@@ -1,0 +1,1 @@
+hw5的Main.java是HW5的東西，HW5裡面有一個hw6_1.java是HW6的東西
